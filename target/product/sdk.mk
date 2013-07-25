@@ -23,7 +23,6 @@ PRODUCT_PACKAGES := \
 	Email \
 	Exchange2 \
 	FusedLocation \
-	Music \
 	Mms \
 	OpenWnn \
 	libWnnEngDic \
