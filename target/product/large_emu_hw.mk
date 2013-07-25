@@ -31,7 +31,6 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Provision \
-    QuickSearchBox \
     Settings \
     Sync \
     Updater \
