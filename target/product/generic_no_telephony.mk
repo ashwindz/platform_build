@@ -33,7 +33,6 @@ PRODUCT_PACKAGES := \
     Launcher2 \
     MusicFX \
     OneTimeInitializer \
-    Provision \
     Phone \
     Settings \
     SystemUI \

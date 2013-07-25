@@ -30,7 +30,6 @@ PRODUCT_PACKAGES := \
     Exchange2 \
     LatinIME \
     Launcher2 \
-    Provision \
     Settings \
     Sync \
     Updater \
