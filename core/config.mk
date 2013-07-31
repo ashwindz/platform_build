@@ -14,6 +14,9 @@ else
 SHELL := /bin/bash
 endif
 
+#Change toolchain to 4.9
+TARGET_GCC_VERSION_EXP := 4.9
+
 # Utility variables.
 empty :=
 space := $(empty) $(empty)
